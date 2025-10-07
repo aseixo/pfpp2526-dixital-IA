@@ -1,0 +1,38 @@
+OBXECTIVOS XERAIS
+
+1. Comprender os fundamentos científicos e tecnolóxicos da Intelixencia Artificial (IA), a súa evolución histórica, tipoloxías e límites actuais.
+2. Analizar criticamente o impacto socioeconómico da IA na sociedade actual e as súas implicacións no ámbito educativo.
+3. Identificar e valorar as cuestións éticas relacionadas co uso da IA, incluíndo sesgos algorítmicos, deepfakes, propiedade intelectual e perspectiva de xénero.
+4. Integrar ferramentas baseadas en IA nas programacións didácticas de Secundaria/Bacharelato e Ciclos Formativos, adaptándoas ás características específicas de cada materia e módulo.
+5. Deseñar actividades de ensino-aprendizaxe innovadoras que incorporen a IA como recurso didáctico e avaliativo.
+6. Desenvolver estratexias para a aprendizaxe asistida por IA que favorezan a personalización e a atención á diversidade.
+7. Adquirir competencias avanzadas en prompt engineering e uso de sistemas de IA aplicados á educación.
+8. Fomentar o pensamento crítico entre o profesorado e o alumnado ante os resultados xerados por IA, promovendo a verificación de fontes e a detección de limitacións.
+9. Desenvolver proxectos interdisciplinares innovadores que combinen IA con outras tecnoloxías emerxentes (RA, RV, gamificación).
+10. Establecer o hábito de actualización permanente no ámbito da competencia dixital e a IA educativa.
+
+
+CONTIDOS
+2. CONTIDOS
+
+BC1. Alfabetización en Intelixencia Artificial
+1. Evolución histórica da IA: dos orixes ata a actualidade
+2. Tipos de IA: IA débil vs. IA forte, aprendizaxe automática, deep learning, IA xerativa
+3. Principios científicos e tecnolóxicos: redes neuronais, procesamento da linguaxe natural, procesamento da imaxe e o son.
+4. Límites e retos actuais da IA: alucinacións, contexto, razoamento lóxico
+5. O papel dos datos e os sesgos algorítmicos: orixes e consecuencias
+
+BC2. Impacto socioeconómico e implicacións éticas
+1. Repercusión da IA no mercado laboral e na economía global
+2. Transformación dixital do sector educativo
+3. Implicacións éticas fundamentais: deepfakes, desinformación e manipulación
+4. Autoría intelectual e propiedade na era da IA xerativa
+5. Sesgos de xénero e diversidade nos sistemas de IA
+6. Marco normativo e regulación da IA (foco na normativa europea)
+
+BC3. Pensamento crítico e avaliación da IA
+1. Estratexias para cuestionar e validar resultados da IA
+2. Contraste de fontes e verificación de información
+3. Detección de erros, imprecisións e limitacións nos outputs de IA
+4. Metodoloxías para desenvolver o pensamento crítico do alumnado fronte á IA
+5. Casos prácticos de análise crítica de contidos xerados por IA
