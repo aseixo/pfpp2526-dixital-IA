@@ -1,0 +1,176 @@
+ Itinerario de Intelixencia Artificial - Formación Permanente do Profesorado
+
+
+1. OBXECTIVOS XERAIS DO ITINERARIO
+
+1.1. Obxectivos de coñecemento e comprensión
+OX1.Comprender os fundamentos científicos e tecnolóxicos da Intelixencia Artificial, a súa evolución histórica, tipoloxías e límites actuais.
+OX2.Analizar criticamente o impacto socioeconómico da IA na sociedade actual e as súas implicacións no ámbito educativo.
+OX3.Identificar e valorar as cuestións éticas relacionadas co uso da IA, incluíndo sesgos algorítmicos, deepfakes, propiedade intelectual e perspectiva de xénero.
+
+1.2. Obxectivos de aplicación pedagóxica
+OX4.Integrar ferramentas baseadas en IA nas programacións didácticas de Secundaria e Ciclos Formativos, adaptándoas ás características específicas de cada materia ou módulo.
+OX5.Deseñar actividades de ensino-aprendizaxe innovadoras que incorporen a IA como recurso didáctico e avaliativo.
+OX6.Desenvolver estratexias para a aprendizaxe asistida por IA que favorezan a personalización e a atención á diversidade.
+
+1.3. Obxectivos de desenvolvemento profesional
+OX7.Adquirir competencias avanzadas en prompt engineering e programación básica de sistemas de IA aplicados á educación.
+OX8.Fomentar o pensamento crítico propio e do alumnado ante os resultados xerados por IA, promovendo a verificación de fontes e a detección de limitacións.
+OX9.Desenvolver proxectos interdisciplinares innovadores que combinen IA con outras tecnoloxías emerxentes (RA, RV, gamificación).
+OX10.Establecer unha cultura de actualización permanente no ámbito da competencia dixital e a IA educativa.
+
+---
+
+2. CONTIDOS
+
+2.1. SEMINARIO DE INICIO (12 horas)
+
+Bloque 1: Alfabetización en Intelixencia Artificial (4 horas)
+1.1. Evolución histórica da IA: dos orixes ata a actualidade  
+1.2. Tipos de IA: IA débil vs. IA forte, aprendizaxe automática, deep learning, IA xerativa  
+1.3. Principios científicos e tecnolóxicos: redes neuronais, procesamento de linguaxe natural, visión por computador  
+1.4. Límites e retos actuais da IA: hallucinations, contexto, razoamento lóxico  
+1.5. O papel dos datos e os sesgos algorítmicos: orixes e consecuencias  
+
+Bloque 2: Impacto socioeconómico e implicacións éticas (4 horas)
+2.1. Repercusión da IA no mercado laboral e na economía global  
+2.2. Transformación dixital do sector educativo  
+2.3. Implicacións éticas fundamentais: deepfakes, desinformación e manipulación  
+2.4. Autoría intelectual e propiedade na era da IA xerativa  
+2.5. Sesgos de xénero e diversidade nos sistemas de IA  
+2.6. Marco normativo e regulación da IA (foco na normativa europea)  
+
+Bloque 3: Pensamento crítico e avaliación da IA (4 horas)
+3.1. Estratexias para cuestionar e validar resultados da IA  
+3.2. Contraste de fontes e verificación de información  
+3.3. Detección de erros, imprecisións e limitacións nos outputs de IA  
+3.4. Metodoloxías para desenvolver o pensamento crítico do alumnado fronte á IA  
+3.5. Casos prácticos de análise crítica de contidos xerados por IA  
+
+---
+
+2.2. CURSO DE FORMACIÓN (30 horas)
+
+Bloque 4: Ferramentas de IA para o uso pedagóxico (8 horas)
+4.1. Panorama de ferramentas educativas baseadas en IA  
+4.2. IA para a creación de contidos didácticos: textos, imaxes, vídeos, presentacións  
+4.3. IA para a xestión e organización do aula  
+4.4. Ferramentas de IA para o deseño de actividades e exercicios personalizados  
+4.5. Sistemas de corrección e feedback automatizado  
+4.6. Plataformas de aprendizaxe adaptativo e titorización intelixente  
+
+Bloque 5: Integración da IA nas programacións didácticas (7 horas)
+5.1. Incorporación da IA nos elementos curriculares: obxectivos, competencias, criterios de avaliación  
+5.2. Deseño de situacións de aprendizaxe con IA  
+5.3. Adaptación aos diferentes niveis educativos: ESO, Bacharelato, FP  
+5.4. Especificidades por áreas de coñecemento: Humanidades, Ciencias, Tecnoloxía, Artes  
+5.5. Planificación temporal e secuenciación de actividades con IA  
+5.6. Exemplos prácticos de programacións que integran IA  
+
+Bloque 6: Avaliación asistida por IA (5 horas)
+6.1. Ferramentas de IA para a corrección e cualificación de tarefas  
+6.2. Detección de contido xerado por IA no traballo do alumnado  
+6.3. Deseño de rúbricas e criterios de avaliación adaptados ao contexto de IA  
+6.4. Avaliación formativa mediante sistemas intelixentes  
+6.5. Consideracións éticas na avaliación con IA: transparencia e equidade  
+
+Bloque 7: Prompt engineering e creación con IA (6 horas)
+7.1. Fundamentos do prompt engineering: estrutura, claridade, contexto  
+7.2. Técnicas avanzadas: chain-of-thought, few-shot learning, role prompting  
+7.3. Iteración e refinamento de prompts  
+7.4. Programación básica con APIs de IA (introducción práctica)  
+7.5. Adaptación e fine-tuning de modelos con datos propios (conceptos básicos)  
+7.6. Creación de bots educativos personalizados  
+
+Bloque 8: Proxectos interdisciplinares e competencia dixital avanzada (4 horas)
+8.1. Deseño de proxectos ABP (Aprendizaxe Baseada en Proxectos) con IA  
+8.2. Integración da IA con realidade aumentada e realidade virtual  
+8.3. IA e gamificación: creación de experiencias de aprendizaxe inmersivas  
+8.4. Simulacións educativas potenciadas por IA  
+8.5. Estratexias de actualización permanente: comunidades de aprendizaxe, recursos en liña, investigación educativa  
+8.6. Presentación de proxectos finais dos participantes  
+
+---
+
+3. INDICADORES DE LOGRO DA AVALIACIÓN
+
+3.1. Indicadores de coñecemento (Obxectivos 1-3)
+
+IL1.Explica correctamente os principios básicos de funcionamento da IA e distingue entre diferentes tipos de sistemas intelixentes.
+
+IL2.Identifica os límites tecnolóxicos actuais da IA e expón exemplos concretos de situacións nas que a IA presenta dificultades.
+
+IL3.Analiza criticamente o impacto socioeconómico da IA, especialmente no ámbito educativo e laboral.
+
+IL4.Recoñece e describe os principais dilemas éticos asociados ao uso da IA (deepfakes, sesgos, autoría intelectual).
+
+IL5.Identifica exemplos de sesgos de xénero e discriminación en sistemas de IA e propón medidas correctoras.
+
+3.2. Indicadores de aplicación pedagóxica (Obxectivos 4-6)
+
+IL6.Incorpora ferramentas de IA de forma coherente nas programacións didácticas da súa materia ou módulo.
+
+IL7.Deseña polo menos tres actividades didácticas innovadoras que integran IA de forma significativa.
+
+IL8.Adapta o uso de ferramentas de IA ás necesidades específicas do seu alumnado, incluíndo medidas de atención á diversidade.
+
+IL9.Elabora instrumentos de avaliación que contemplan o uso da IA, incluíndo rúbricas específicas.
+
+IL10.Utiliza sistemas de IA para proporcionar feedback personalizado ao alumnado.
+
+IL11.Integra criterios de avaliación que valoran o uso ético e crítico da IA polo alumnado.
+
+3.3. Indicadores de pensamento crítico (Obxectivo 8)
+
+IL12.Aplica estratexias sistemáticas de verificación e contraste de información xerada por IA.
+
+IL13.Detecta erros, imprecisións ou limitacións en outputs de IA e xustifica a súa valoración.
+
+IL14.Deseña actividades específicas para fomentar o pensamento crítico do alumnado fronte á IA.
+
+IL15.Propón metodoloxías de traballo que promoven a reflexión sobre as implicacións éticas do uso da IA.
+
+3.4. Indicadores de competencia técnica avanzada (Obxectivos 7, 9)
+
+IL16.Redacta prompts efectivos que obteñen resultados axustados aos seus obxectivos pedagóxicos.
+
+IL17.Aplica técnicas avanzadas de prompt engineering (contexto, exemplos, roles, iteración).
+
+IL18.Desenvolve un proxecto educativo que integra IA con outras tecnoloxías (RA, RV, gamificación).
+
+IL19.Crea recursos dixitais personalizados mediante ferramentas de IA (chatbots, materiais adaptados).
+
+IL20.Deseña polo menos un proxecto interdisciplinar que incorpora IA de forma transversal.
+
+3.5. Indicadores de desenvolvemento profesional continuo (Obxectivo 10)
+
+IL21.Identifica fontes fiables de actualización en IA educativa (revistas, comunidades, cursos).
+
+IL22.Participa activamente en espazos de intercambio e aprendizaxe colaborativo sobre IA.
+
+IL23.Elabora un plan persoal de formación continua en competencia dixital e IA.
+
+IL24.Comparte as súas experiencias e aprendizaxes con outros profesionais do centro educativo.
+
+
+
+4. METODOLOXÍA DE AVALIACIÓN
+
+4.1. Instrumentos de avaliación
+
+Probas de coñecemento:cuestionarios sobre fundamentos da IA, impacto e ética (IL1-IL5)
+Portafolio dixital:recompilación de actividades, programacións e recursos creados (IL6-IL11, IL16-IL20)
+Proxecto final:deseño e presentación dun proxecto pedagóxico integral con IA (IL7, IL14, IL18, IL20)
+Observación directa:participación en actividades prácticas e traballos colaborativos (IL22, IL24)
+Autoavaliación e reflexión:diario de aprendizaxe e plan de desenvolvemento profesional (IL21, IL23)
+Análise de casos:resolución de supostos prácticos de pensamento crítico e ética (IL12-IL15)
+
+4.2. Criterios de superación
+
+Para superar o itinerario formativo, o profesorado participante deberá:
+- Acreditar a asistencia mínima esixida (85% do seminario e o curso)
+- Alcanzar satisfactoriamente polo menos o 80% dos indicadores de logro
+- Presentar e defender o proxecto final integrador
+- Elaborar o plan persoal de actualización en competencia dixital
+
+
